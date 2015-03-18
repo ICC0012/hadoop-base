@@ -1,0 +1,26 @@
+*.class
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+### NetBeans ###
+nbproject/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+# Intellij Files
+*.iml
+.idea
+
+# Maven output
+target
+logs
+
+# Other crap
+.DS_Store
